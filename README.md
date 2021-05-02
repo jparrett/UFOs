@@ -1,7 +1,7 @@
 # UFOs
 Module 11 - Creating Dynamic Content
 
-# Overview of Project: Explain the purpose of this analysis.
+# Overview of Project: 
 McMinnville, Oregon is famous for its' UFO sightings.    The town even celebrates by having an annual gathering.    This project will help Dana to build an interactive webpage that allows readers to parse the data around UFO sightings.   The users are able to filter the information at several levels:  date, city, state, country, or even shape.  
 
 # Results: 
