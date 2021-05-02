@@ -26,7 +26,7 @@ The drawback to this new design is that the user has to type in correctly for th
 
 To continue to refine the process, the following recommendations are suggested:
 
--Improve filters:  This could be corrected by included a drop down for the user to select the values to filter on.   This way there is no mistake and the information is returned correctly.
+- Improve filters:  This could be corrected by included a drop down for the user to select the values to filter on.   This way there is no mistake and the information is returned correctly.
 
 - Data:   currently the data is limited to the information provided.    A way to improve this would be to develop an system using splinter, beautiful soup, Flask and a database to constatly look and update the informaiton.
 
